@@ -1,0 +1,161 @@
+* {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.yellow-body {
+    background-color: #ffcc49;
+}
+
+.center-text {
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+
+.nav-link {
+    color: #000;
+}
+
+.page-title {
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 115px;
+    text-align: center;
+}
+
+.lead {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 43px;
+    text-align: center;
+}
+
+.default-link {
+    display: block;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 83.9%;
+    color: #000;
+    text-decoration: none;
+}
+
+.button-o {
+    text-align: center;
+    display: block;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 18px;
+    font-size: 18px;
+    color: #000;
+    text-decoration: none;
+}
+
+.align-content-center {
+    display: flex;
+    align-items: center;
+}
+
+hr {
+    border-top: 1px solid rgba(0,0,0,1);
+}
+
+.divider-wrapper {
+    margin-top: -40px;
+}
+
+.section-heading {
+    padding: 0px 16px;
+    margin: auto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    text-align: center;
+    color: #000000;
+    background-color: #ffcc49;
+}
+
+.duck-image, .main-image {
+    width: 100%;
+}
+
+.ide-image {
+    display: block;
+    margin: auto;
+    margin-bottom: 24px;
+}
+
+.voting-section {
+    margin: 64px 0px;
+    padding: 64px 0px;
+    background: rgba(196, 196, 196, 0.1);
+    text-align: center;
+}
+
+.vote-button {
+    background-color: #d3d3d3;
+    padding: 16px 32px;
+    color: #000;
+}
+
+footer {
+    background: rgba(196, 196, 196, 0.26);
+    padding: 32px 0px;
+}
+
+footer h6 {
+    font-weight: medium;
+}
+
+.footer-list {
+    padding: 0px;
+
+}
+
+.footer-list li {
+    list-style: none;
+    display: block;
+}
+
+.footer-list li a {
+    color: #000;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.documentation-nav {
+    padding: 0px;
+    margin-top: 8px;
+}
+
+.documentation-nav li {
+    list-style: none;
+    display: block;
+    margin-bottom: 12px;
+}
+
+.documentation-nav li a {
+    color: #000;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.docs-list {
+    padding: 0px;
+}
+
+.docs-list li {
+    list-style: none;
+    display: block;
+    margin-bottom: 12px;
+}
+
+.ide-name {
+    color: #000;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 24px;
+}
